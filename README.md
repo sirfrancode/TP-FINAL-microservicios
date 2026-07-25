@@ -281,3 +281,7 @@ Se verificó:
 - registro de los servicios en Eureka;
 - lectura de configuraciones desde Config Server;
 - comunicación entre Customer Service y Product Service mediante OpenFeign.
+
+## Estado del proyecto
+
+Proyecto finalizado y preparado para revisión de código.
